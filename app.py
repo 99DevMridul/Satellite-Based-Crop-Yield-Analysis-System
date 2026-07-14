@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # --- 1. Google Earth Engine Initialization ---
 # Ensure this matches your Google Cloud Project ID
-GEE_PROJECT_ID = 'my-crop-yield-project-472523'
+GEE_PROJECT_ID = 'my-crop-yield-project-******'
 
 try:
     ee.Initialize(project=GEE_PROJECT_ID)
