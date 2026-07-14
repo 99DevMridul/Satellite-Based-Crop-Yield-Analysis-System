@@ -180,31 +180,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📷 Screenshots
-
-Create a folder named **screenshots** and add images such as:
-
-- Home Page
-- Interactive Map
-- NDVI Trend Graph
-- Yield Prediction Output
-- System Architecture
-- Workflow Diagram
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── map.png
-├── graph.png
-├── prediction.png
-├── architecture.png
-└── workflow.png
-```
-
----
-
 ## 📌 Future Improvements
 
 - Support for multiple crop types
